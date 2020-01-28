@@ -1,9 +1,10 @@
-/* mat-button-toggle {
+mat-button-toggle {
     border: 1px solid gray;
     border-radius: 5px !important;
-    margin-top: 5px !important;
-    padding: 0 5px !important;
-    width:20px;
+    /* margin-top: 5px !important;*/
+    padding: 0px!important; 
+    width: 40px;
+    height: 40px;
 }
 
 .mat-button-toggle-checked {
@@ -13,7 +14,7 @@
     color:white;
 }
 
-.mat-button-toggle-input {
+/* .mat-button-toggle-input {
     background-color: none !important;
     padding-left: 32px !important;
 } */
